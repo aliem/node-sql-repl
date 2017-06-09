@@ -1,0 +1,26 @@
+{
+  "name": "sql-repl",
+  "version": "0.1.0",
+  "description": "repl for the excellent node-sql",
+  "main": "index.js",
+  "repository": "https://github.com/aliem/node-sql-repl.git",
+  "author": "Lorenzo Giuliani <lorenzo@giuliani.me>",
+  "license": "MIT",
+  "keywords": [
+    "cli",
+    "repl",
+    "sql",
+    "sql-repl"
+  ],
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "bin": {
+    "sql-repl": "cli.js"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "repl.history": "^0.1.4",
+    "sql": "^0.76.1"
+  }
+}

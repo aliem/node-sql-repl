@@ -1,0 +1,6 @@
+{
+  "name": "uno",
+  "columns": [
+    "id", "name"
+  ]
+}
