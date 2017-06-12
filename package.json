@@ -1,5 +1,5 @@
 {
-  "name": "sql-repl",
+  "name": "@frenz/sql-repl",
   "version": "0.1.0",
   "description": "repl for the excellent node-sql",
   "main": "index.js",
