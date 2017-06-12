@@ -16,7 +16,7 @@
     "node": ">=6.0.0"
   },
   "bin": {
-    "sql-repl": "cli.js"
+    "sql-repl": "index.js"
   },
   "dependencies": {
     "minimist": "^1.2.0",
